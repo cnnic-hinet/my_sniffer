@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sniffer">
+        <file>images/stop.png</file>
+        <file>images/start.png</file>
+        <file>images/select.png</file>
+        <file>images/repeat.png</file>
+    </qresource>
+</RCC>
