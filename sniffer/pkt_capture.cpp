@@ -9,7 +9,6 @@ void pkt_capture::set_sniffer(Tins::Sniffer *sniffer)
 {
     this->sniffer = sniffer;
 }
-
 void pkt_capture::run()
 {
     Tins::Packet *pkt;
